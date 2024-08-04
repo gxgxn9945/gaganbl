@@ -1,3 +1,2 @@
 hello world
-hello guru mamu git add .
-git co
+hello guru mamu git add
